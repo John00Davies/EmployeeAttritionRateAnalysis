@@ -27,6 +27,8 @@ Employee attrition, or turnover, can have significant financial and operational 
 
 - **Education Level**: There is no significant difference in attrition rates based on education level.
 
+![0. Attrition Rate Difference.jpeg](https://github.com/John00Davies/EmployeeAttritionRateAnalysis/blob/main/3.%20Images/Attrition%20Rate%20Differences.jpeg)
+
 ### Attrition Rate by Job Role
 - **High Attrition Roles**: 
   - Sales Representatives (28%)
@@ -35,6 +37,9 @@ Employee attrition, or turnover, can have significant financial and operational 
   
 - **Low Attrition Roles**:
   - Research Directors, Managers, and Healthcare Representatives have the lowest attrition rates, around 4-5%.
+ 
+![0. Attrition By Job Role.jpeg](https://github.com/John00Davies/EmployeeAttritionRateAnalysis/blob/main/3.%20Images/Attrition%20by%20Job%20Role.jpeg)
+
 
 ## Recommendations
 To reduce employee attrition, the following strategies are recommended:
